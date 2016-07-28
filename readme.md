@@ -13,4 +13,6 @@
 
 ## 运行命令
 
- - python setup.py py2exe
+```
+    D:\www\python\iptools>python setup.py py2exe
+```
